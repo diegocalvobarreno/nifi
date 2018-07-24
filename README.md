@@ -1,2 +1,2 @@
-# nifi
-Ejemplos de NIFI
+# Ejemplos de Nifi
+Muestra ejemplos XML ejecutables en NIFI
