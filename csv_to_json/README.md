@@ -29,4 +29,4 @@ Susana, 45, 39000<br>
 
 
 # Importar el Flujo de datos
-El flujo de datos viene el fichero XML: csv_to_json.xml
+El flujo de datos se puede descargar del fichero XML: csv_to_json.xml
