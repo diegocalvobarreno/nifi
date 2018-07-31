@@ -13,4 +13,4 @@ mkdir generator_to_file <br>
 chmod 777 generator_to_file
 
 # Importar el Flujo de datos
-El flujo de datos viene el fichero XML: generator_to_file.xml
+El flujo de datos se puede descargar del fichero XML: generator_to_file.xml
